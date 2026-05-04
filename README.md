@@ -24,17 +24,17 @@ Overall, NetWatch is designed to make basic network traffic analysis simple, fas
 
 Backend
 
-Python
+->Python
 
-Flask
+->Flask
 
 Frontend
 
-HTML
+->HTML
 
-CSS (Inline Styling)
+->CSS (Inline Styling)
 
-JavaScript 
+->JavaScript 
 
 📂 Project Structure
 
